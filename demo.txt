@@ -1,6 +1,6 @@
-public void Add(){
+public void Add(int a,int b){
 
-// write cyour code here
+Console.WriteLine(a+b);
 
 
 }
